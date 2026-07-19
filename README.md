@@ -34,16 +34,16 @@ Manual microscopic examination of blood smears — the current diagnostic gold s
 ## Results
 | Metric             | Baseline (LR + HOG) | This Model (EfficientNetB0) |
 |--------------------|---------------------|-----------------------------|
-| Recall (parasitized) | ~82%              | ≥ 97%                       |
-| Precision          | ~79%                | ~96%                        |
-| F1-Score           | ~80%                | ~97%                        |
-| AUC-ROC            | ~88%                | ~99%                        |
+| Recall (parasitized)|                    |                             |
+| Precision          |                     |                             |
+| F1-Score           |                     |                             |
+| AUC-ROC            |                     |                             |
 
 ### Disaggregated Performance
 | Subgroup          | N      | Recall | F1-Score |
 |-------------------|--------|--------|----------|
-| Parasitized cells | 13,779 | ≥ 0.97 | ~0.97    |
-| Uninfected cells  | 13,779 | ~0.96  | ~0.97    |
+| Parasitized cells | 13,779 |        |          |
+| Uninfected cells  | 13,779 |        |          |
 
 ---
 
