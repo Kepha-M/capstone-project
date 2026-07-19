@@ -72,8 +72,11 @@ pip install -r requirements.txt
 # 3. Run EDA notebook
 jupyter notebook notebooks/01_eda.ipynb
 
+# 4. Run the preprocesing notebook
+jupyter notebook notebooks/02_preprocessing.ipynb
+
 # 4. Train the model
-jupyter notebook notebooks/02_modelling.ipynb
+jupyter notebook notebooks/03_modelling.ipynb
 
 # 5. Launch the browser demo (TF.js)
 open deployment/index.html
